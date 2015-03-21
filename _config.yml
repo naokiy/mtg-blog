@@ -8,7 +8,7 @@ subtitle: tefuda.suku.name
 description: M;tGのことを書く、やる気のないサイト
 author: 少なめ
 language: ja
-timezone: JP
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -67,8 +67,6 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: ftp
-    host: s191.coreserver.js
-    user: naokiy
-    password: WULQuuJqDQcJ
-  root: /public_html/tefuda.suku.name
+  type: git
+  repo: git@github.com:naokiy/mtg-blog.git
+  branch: gh-pages
