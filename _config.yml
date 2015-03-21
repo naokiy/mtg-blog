@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: 手札少なめ
+subtitle: tefuda.suku.name
+description: M;tGのことを書く、やる気のないサイト
+author: 少なめ
+language: ja
+timezone: JP
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://tefuda.suku.name/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -67,4 +67,8 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: ftp
+    host: s191.coreserver.js
+    user: naokiy
+    password: WULQuuJqDQcJ
+  root: /public_html/tefuda.suku.name
