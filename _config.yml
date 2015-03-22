@@ -73,3 +73,7 @@ deploy:
 
 sitemap:
   path: sitemap.xml
+
+feed:
+  type: rss2
+  limit: 0
