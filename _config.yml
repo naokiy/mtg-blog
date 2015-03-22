@@ -75,5 +75,5 @@ sitemap:
   path: sitemap.xml
 
 feed:
-  type: atom
+  type: rss2
   limit: 0
