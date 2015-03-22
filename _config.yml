@@ -77,3 +77,6 @@ sitemap:
 feed:
   type: rss2
   limit: 0
+
+plugins:
+- hexo-mtg-card-jp
