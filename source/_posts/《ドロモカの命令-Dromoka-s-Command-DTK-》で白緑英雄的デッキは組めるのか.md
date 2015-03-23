@@ -13,6 +13,8 @@ tags:
 - メモ
 ---
 
+{% mtg_card 《ドロモカの命令/Dromoka's Command(DTK)》 %}
+
 《ヘリオッドの試練/Ordeal of Heliod(THS)》や《タッサの試練/Ordeal of Thassa(THS)》を無理やり突破できてしまうカード《アブザンの優位/Abzan Advantage(FRF)》。
 
 その《アブザンの優位/Abzan Advantage(FRF)》を多色にしたら、自分で英雄的を使えるようになった上にできることがやたら増えたというわけのわからないカードが《ドロモカの命令/Dromoka's Command(DTK)》。
