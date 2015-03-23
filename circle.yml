@@ -3,6 +3,9 @@ machine:
     UTC
   node:
     version: 0.10.26
+test:
+  override:
+    - exit 0
 deployment:
   production:
     branch: master
