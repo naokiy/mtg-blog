@@ -10,6 +10,9 @@ tags:
 - タルキール龍紀伝
 - クリーチャー
 ---
+
+{% mtg_card 《嘲る映し身/Mirror Mockery(DTK)》 %}
+
 ## 《嘲る映し身/Mirror Mockery(DTK)》がなんか強そうに見える
 
 現在の売値は100円前後。安いと思うんだよなあ。
