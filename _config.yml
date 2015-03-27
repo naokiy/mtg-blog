@@ -64,6 +64,9 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: landscape
 
+theme_config:
+  rss: /rss2.xml
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
