@@ -4,7 +4,7 @@ category:
 - MTG
 - マジック・デュエルズ
 tags:
-- Magic Duels: Origins
+- Magic Duels Origins
 - デッキ
 - 白
 - 青
