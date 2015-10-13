@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[手札少なめ]]></title>
+    <link>http://tefuda.suku.name/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    <description><![CDATA[M;tGのことを書く、やる気のないサイト]]></description>
+    <pubDate>Tue, 13 Oct 2015 15:41:34 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title><![CDATA[機会費用の力]]></title>
+      <link>http://tefuda.suku.name/2015/10/13/%E6%A9%9F%E4%BC%9A%E8%B2%BB%E7%94%A8%E3%81%AE%E5%8A%9B/</link>
+      <guid>http://tefuda.suku.name/2015/10/13/%E6%A9%9F%E4%BC%9A%E8%B2%BB%E7%94%A8%E3%81%AE%E5%8A%9B/</guid>
+      <pubDate>Tue, 13 Oct 2015 15:24:23 GMT</pubDate>
+      <description>
+      <![CDATA[<h2 id="原文">原文</h2><p>この文章は<a href="http://www.channelfireball.com/">Channel Fireball</a>に掲載された<a href="http://www.channelfireball.com/articles/the-power-of-opportunity-cost/">The Power of Opportunity Cost</a>の和訳です。原文の掲載は2015年10月8日でした。</p>]]>
+      
+      </description>
+      <content:encoded><![CDATA[<h2 id="原文">原文</h2><p>この文章は<a href="http://www.channelfireball.com/" target="_blank" rel="external">Channel Fireball</a>に掲載された<a href="http://www.channelfireball.com/articles/the-power-of-opportunity-cost/" target="_blank" rel="external">The Power of Opportunity Cost</a>の和訳です。原文の掲載は2015年10月8日でした。</p>
+<a id="more"></a>
+<hr>
+<p>マジックから学ぶことができる最も強力な考え方の一つが、機会費用に基づく判断の評価である。意思決定において、このスキルを学んだ人間とまだ学んでいない人間の間にある違いは膨大だ。これはまさに人生を変えるレッスンであり、いかに幸福のためにマジックを用いることができるかという一つの良い例でもある。</p>
+<h2 id="機会費用の力">機会費用の力</h2><p>すでに気づいているかもしれないが、強いデッキの大多数は必要最低限度の枚数でできている。これはなぜだろうか。<br>多くのカードを用いることに幾つかの利点があるのはたしかだ。しかし、デッキを最小限の枚数にすることには強い数学的理由が存在する。実のところ、これは機会費用という経済の原則に基づいている。<br>機会費用の考え方においては、すべての新しいカードと、最良のカードとの比較を行うことになる。</p>
+<p><strong>機会費用</strong> : 相互に排他的な選択肢から選ぶとき、既存の最も良い選択肢の価値</p>
+<p>デッキの中で最良・第1位のカードと、それ以外のカード、あなたがドローしたいのはどちらだろうか。<br>第61位・第70位・第100位のカードは、あなたが最良のカードを引く可能性を希釈する。一般に、使うカードが多ければ多いほど、最良のカードを引く可能性は小さくなる。<br>したがってデッキを最小限の枚数にすることは数学的に意味があるのだ。</p>
+<p>例をあげよう。あなたのデッキの主要な目的が<span is="mtg_card" mtg_types="creature" mtg_colors="green">《原始のタイタン/Primeval Titan》</span>を唱えることだとする。つまりこれが最良のカードだ。<br>殆どの構築フォーマットでは60枚の中で4枚しか<span is="mtg_card" mtg_types="creature" mtg_colors="green">《原始のタイタン/Primeval Titan》</span>を使えない。15回に1回引き込むことができることになる。</p>
+<p>しかしカードを追加しデッキを120枚にした時、タイタンを引ける確率は30回に1回、半分にまで減る。<br><span is="mtg_card" mtg_types="creature" mtg_colors="green">《原始のタイタン/Primeval Titan》</span>はバケツに落ちた一滴の水のように消えてしまうだろう。</p>
+<p>デッキを61枚にする影響は、120枚にすることほど劇的ではない。しかしそれはデッキのアイデアを測定可能なレベルで希釈してしまう。<br>故にデッキビルダーは数学と経済学の観点からデッキの枚数を最小限にするのだ。</p>
+<h2 id="幸福の機会費用">幸福の機会費用</h2><p>機会費用に対する評価は、同様に日々の意思決定すべてに適用できる。減算を通じて、進歩のダークサイドを抱きしめる時間だ。</p>
+<p>ただの物はない。すべてのものにコストはある。特に金と時間だ。</p>
+<p>あなたのすべての行動は、あなたが行うことができる最良の行動と比較されなければならない。<br>あなたのすべての支出は、あなたが支払うことができた最も有益な品物と比較されなければならない。</p>
+<p>重要でないものは排除され、唯一の最も有用な進化だけが残る。</p>
+<p>機会費用についての理解は、他者を理解し対話する方法を変化させる。<br>あなたは彼らの時間、そして彼らの機会費用を尊重するようになるだろう。<br>あなたが彼らの時間やお金を要求する場合には、彼らがそれをしなかった時に行うことができる最良のものに匹敵するような公正な対価を提供するようになるだろう。<br>あなたがタダで何かをお願いするとき、あなたは真にタダであるものなどないことを知っている。<br>彼らの時間は考慮されるべき物事であり、その貴重な資源を彼らがどのように割り振るかは尊重されねばならない。</p>
+<p>これはデッキ制作から学ぶことができる強力なレッスンだ。<br>削りこむこと、そしてそれを実生活にいかに役立てるかを学んだとき、あなたは強力な鋭さを身につけることができる。<br>今やあなたはあらゆるコストを考慮し、無情な決定を下すことになる。それによって、より集中した、意味のある、有意義な人生を得ることができるのだ。<br>一度身につけてしまえば、二度と忘れることはない。<br>これが機会費用を理解することの力だ。</p>
+<p>引き続き、『幸福のためのマジック』をお楽しみに。</p>
+]]></content:encoded>
+      <comments>http://tefuda.suku.name/2015/10/13/%E6%A9%9F%E4%BC%9A%E8%B2%BB%E7%94%A8%E3%81%AE%E5%8A%9B/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title><![CDATA[マジック・デュエルズ・オリジン Magic Duels: Origins 4色後見]]></title>
+      <link>http://tefuda.suku.name/2015/09/27/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%BB%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3-Magic-Duels-Origins-4%E8%89%B2%E5%BE%8C%E8%A6%8B/</link>
+      <guid>http://tefuda.suku.name/2015/09/27/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%BB%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3-Magic-Duels-Origins-4%E8%89%B2%E5%BE%8C%E8%A6%8B/</guid>
+      <pubDate>Sun, 27 Sep 2015 12:13:05 GMT</pubDate>
+      <description>
+      <![CDATA[<h2 id="戦乱のゼンディカー_リリース遅延記念">戦乱のゼンディカー リリース遅延記念</h2><p>マジック・デュエルズ・オリジンで使ってる4色後見デッキを晒してみる。</p>
+<p>レーティングは30あたりをうろうろしてる。ちょっとここいらで各カードの役割を整理したい。]]>
+      </description>
+      <content:encoded><![CDATA[<h2 id="戦乱のゼンディカー_リリース遅延記念">戦乱のゼンディカー リリース遅延記念</h2><p>マジック・デュエルズ・オリジンで使ってる4色後見デッキを晒してみる。</p>
+<p>レーティングは30あたりをうろうろしてる。ちょっとここいらで各カードの役割を整理したい。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">2 Plains&#10;3 Islands&#10;2 Swamp&#10;3 Forests&#10;2 Woodland Cemetery&#10;2 Drowned Catacomb&#10;2 Hinterland Harbor&#10;2 Isolated Chapel&#10;2 Glacial Fortress&#10;2 Sunpetal Grove&#10;4 Evolving Wilds&#10;4 Fog&#10;1 Jace, Vryn&#39;s Prodigy&#10;3 Gatecreeper Vine&#10;3 Alchemist&#39;s Vial&#10;3 Telling Time&#10;1 Nissa, Vastwood Seer&#10;3 Sphinx&#39;s Tutelage&#10;3 Hydrolash&#10;3 Artificer&#39;s Epiphany&#10;3 Read the Bones&#10;2 Talent of the Telepath&#10;2 Languish&#10;2 Tragic Arrogance</span><br></pre></td></tr></table></figure>
+<p>主な勝ち筋は<span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span>置いて<span is="mtg_card" mtg_types="instant" mtg_colors="green">《濃霧/Fog》</span>連打。<br><span is="mtg_card" mtg_types="planeswalker" mtg_colors="green">《精霊信者の賢人、ニッサ/Nissa, Sage Animist》</span>か<span is="mtg_card" mtg_types="planeswalker" mtg_colors="blue">《束縛なきテレパス、ジェイス/Jace, Telepath Unbound》</span>の奥義で勝つこともある。なくはない。</p>
+<h2 id="各カードについて">各カードについて</h2><p>軽いほうから順に。</p>
+<h3 id="《濃霧/Fog》_4枚"><span is="mtg_card" mtg_types="instant" mtg_colors="green">《濃霧/Fog》</span> 4枚</h3><p>守りの切り札。当然のフル投入。</p>
+<p>他の防御用カードより効果が確実なので、ギリギリまで温存すべき。軽いし。<br>この手のカードでしのぎながらクリーチャーを並べさせて、リセット呪文でまとめて流す、を繰り返さないと勝てない。</p>
+<p>赤が入ってるデッキ相手なら、ライフが10を切らないように早めに使う。リセットを待ってる間に火力連打で死ぬので。手札が少なくても<span is="mtg_card" mtg_types="sorcery" mtg_colors="red">《チャンドラの灯の目覚め/Chandra’s Ignition》</span>がある。逆に<span is="mtg_card" mtg_types="sorcery" mtg_colors="green">《ムウォンヴーリーの酸苔/Mwonvuli Acid-Moss》</span>や<span is="mtg_card" mtg_types="sorcery" mtg_colors="green">《ニッサの巡礼/Nissa’s Pilgrimage》</span>などを見たら温存。リセットを優先していいと思う。<span is="mtg_card" mtg_types="creature" mtg_colors="green">《ガイアの復讐者/Gaea’s Revenge》</span>トップデッキに合わせられないと死ぬので。</p>
+<h3 id="《ヴリンの神童、ジェイス/Jace,_Vryn’s_Prodigy》_1枚"><span is="mtg_card" mtg_types="creature" mtg_colors="blue">《ヴリンの神童、ジェイス/Jace, Vryn’s Prodigy》</span> 1枚</h3><p>勝ち手段ナンバー3。</p>
+<p>相手の腐ってる除去が飛んでくるのでまず生き残れないものの、それならそれで相手の2ターン目・3ターン目を潰したってことで結果オーライ。最低ブロッカーにはなってくれるし。<br>序盤、相手の赤マナ起きてる時に出すと<span is="mtg_card" mtg_types="instant" mtg_colors="red">《焦熱の結末/Fiery Conclusion》</span>や<span is="mtg_card" mtg_types="instant" mtg_colors="red">《双雷弾/Twin Bolt》</span>ですぐ死ぬ。その場合、次ターンの行動を少しでも縛るために、優先度を下げてる。</p>
+<p>うっかり変身すると神。</p>
+<h3 id="《門を這う蔦/Gatecreeper_Vine》_3枚"><span is="mtg_card" mtg_types="creature" mtg_colors="green">《門を這う蔦/Gatecreeper Vine》</span> 3枚</h3><p>3ターン目に<span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span>、それ以降は<span is="mtg_card" mtg_types="instant" mtg_colors="green">《濃霧/Fog》</span>を構えながらドロースペル連射、適宜<span is="mtg_card" mtg_types="sorcery" mtg_colors="black">《衰滅/Languish》</span>または<span is="mtg_card" mtg_types="sorcery" mtg_colors="white">《悲劇的な傲慢/Tragic Arrogance》</span>を撃ちたい、というデッキなので、3ターン目の3マナを用意しつつ色マナを安定させることは超重要。</p>
+<p>ただし、2T目に出せた時やダブルシンボルを揃えられるときは強いものの、それ以外の局面ではあまり引きたくないので1枚減らしている。</p>
+<p>戦場に出た後について、0/2防衛クリーチャーに待っている運命は以下の様な感じ。</p>
+<ul>
+<li>チャンプブロックで本体へのダメージを2点軽減しながら死ぬ</li>
+<li>リセット呪文に巻き込まれて死ぬ</li>
+<li>適当な除去を打たれて死ぬ</li>
+<li>飛行クリーチャーの群れに無視される</li>
+<li><span is="mtg_card" mtg_types="enchantment" mtg_colors="white">《秘儀術師の掌握/Grasp of the Hieromancer》</span>で毎ターンタップされる</li>
+<li><span is="mtg_card" mtg_types="instant" mtg_colors="black">《残酷な蘇生/Cruel Revival》</span>でアドバンテージ取られながら死ぬ</li>
+<li><span is="mtg_card">《霊気への抑留/Anchor to the AEther》</span>でライブラリーの一番上に戻される。実質的にドロー1回スキップ。</li>
+<li><span is="mtg_card" mtg_types="sorcery" mtg_colors="red">《反逆の行動/Act of Treason》</span>で寝返って<span is="mtg_card" mtg_types="creature" mtg_colors="black red">《猛火のヘルハウンド/Blazing Hellhound》</span>なんかの餌になって死ぬ</li>
+<li><span is="mtg_card" mtg_types="sorcery" mtg_colors="green">《野性の本能/Wild Instincts》</span>で格闘して死ぬ (相手クリーチャー1体が+2/+2される)</li>
+<li>魔巧を達成した<span is="mtg_card" mtg_types="instant" mtg_colors="red">《残虐無道の猛火/Ravaging Blaze》</span>でプレイヤーごと死ぬ (最悪)</li>
+</ul>
+<p>どう考えてもチャンプブロックで死ぬのが一番良いので、相手のパワー2のクリーチャーの前にどんどん砕け散るべき。<br>ただ、<span is="mtg_card" mtg_types="creature" mtg_colors="green">《ガイアの復讐者/Gaea’s Revenge》</span>が入ってそうなデッキなら、それに合わせて生かしておくことも考えていいと思う。</p>
+<h3 id="《錬金術師の薬瓶/Alchemist’s_Vial》_3枚"><span is="mtg_card" mtg_types="artifact">《錬金術師の薬瓶/Alchemist’s Vial》</span> 3枚</h3><p>後見誘発要員その1。</p>
+<p>このデッキ唯一のアーティファクト。2ターン目のアクションとして。<span is="mtg_card" mtg_types="instant" mtg_colors="blue">《工匠の天啓/Artificer’s Epiphany》</span>で手札が増えるようになる。</p>
+<p><span is="mtg_card" mtg_types="artifact creature">《巨大戦車/Juggernaut》</span>に<span is="mtg_card" mtg_types="enchantment" mtg_colors="red">《伝染性渇血症/Infectious Bloodlust》</span>がついて7/4速攻！みたいな状況に対応できるのも非常にグッド。</p>
+<p><span is="mtg_card" mtg_types="instant" mtg_colors="red">《タイタンの力/Titan’s Strength》</span>などの強化呪文に対応できず、複数枚あると<span is="mtg_card" mtg_types="sorcery" mtg_colors="white">《悲劇的な傲慢/Tragic Arrogance》</span>で流れてしまうのが玉に瑕。</p>
+<h3 id="《時間の把握/Telling_Time》_3枚"><span is="mtg_card" mtg_types="instant" mtg_colors="blue">《時間の把握/Telling Time》</span> 3枚</h3><p>序盤・中盤・終盤いつ引いても嬉しい。フル投入。</p>
+<p>他の2マナのカードと比べて守りの役にはほぼ立たないが、ダブルマリガンしたハンドから<span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span>を探したり、手札のリセット呪文に合わせて土地を探したり、やることは多い。<br>デッキにたくさん入ってる土地をボトムに送れるのは超重要。</p>
+<p>2ターン目に使うなら<span is="mtg_card" mtg_types="artifact">《錬金術師の薬瓶/Alchemist’s Vial》</span>より優先してる。</p>
+<h3 id="《巨森の予見者、ニッサ/Nissa,_Vastwood_Seer》_1枚"><span is="mtg_card" mtg_types="creature" mtg_colors="green">《巨森の予見者、ニッサ/Nissa, Vastwood Seer》</span> 1枚</h3><p>勝ち手段ナンバー2。</p>
+<p>相手のデッキにソーサリー除去が溜まってるはずなので、7T目以降に出して即変身させるのが基本。攻撃を通す必要もなく、毎ターンアドバンテージが取れる強さは異常。</p>
+<h3 id="《スフィンクスの後見/Sphinx’s_Tutelage》_3枚"><span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span> 3枚</h3><p>勝ち手段ナンバー1。目一杯積んだ。<br>サイドボードからエンチャント除去が入ったりしない環境なので安心感がある。</p>
+<p>序盤に手札に3枚揃ったりすると死ねるが、1枚も来ないとまず勝てないので、初手にないときはトリプルマリガンくらいはしてる。</p>
+<p>終盤には相手のデッキをほぼ確認できるので、「カウンターは<span is="mtg_card" mtg_types="instant" mtg_colors="blue">《計算された放逐/Calculated Dismissal》</span>しか入ってなさそう」とか読めるのがグッド。</p>
+<p>緑相手だと、これを出した後全力でドローして<span is="mtg_card" mtg_types="creature" mtg_colors="green">《再利用の賢者/Reclamation Sage》</span>を落とさないとまずい。</p>
+<h3 id="《水撃/Hydrolash》_3枚"><span is="mtg_card" mtg_types="instant" mtg_colors="blue">《水撃/Hydrolash》</span> 3枚</h3><p>後見誘発要員その2。</p>
+<p>ソプターやエルフのような、横に並べるデッキに対して劇的に効く。そうでなくてもライフ2点分は効く。3枚フル投入。</p>
+<p><span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《飛行機械の諜報網/Thopter Spy Network》</span>や<span is="mtg_card" mtg_types="creature" mtg_colors="blue">《ジェスの盗人/Jhessian Thief》</span>・<span is="mtg_card" mtg_types="creature" mtg_colors="black">《墓刃の匪賊/Graveblade Marauder》</span>の誘発を防げるところが偉い。</p>
+<h3 id="《工匠の天啓/Artificer’s_Epiphany》_4枚"><span is="mtg_card" mtg_types="instant" mtg_colors="blue">《工匠の天啓/Artificer’s Epiphany》</span> 4枚</h3><p>後見誘発要員その3。フル投入。</p>
+<p>インスタント・タイミングで複数枚引ける呪文の中で一番軽いのでこの位置。捨てるカードについては、引いてから考える方針。</p>
+<h3 id="《骨読み/Read_the_Bones》_3枚"><span is="mtg_card" mtg_types="sorcery" mtg_colors="black">《骨読み/Read the Bones》</span> 3枚</h3><p>後見誘発要員その4。</p>
+<p><span is="mtg_card" mtg_types="instant" mtg_colors="blue">《時間の把握/Telling Time》</span>とほぼ同じ役割をはたす上に<span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span>を誘発させられるのは素敵。<br>3T目に<span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span>出してから、4T目、5T目に使いたい。</p>
+<p>フル投入していない理由は以下の2つ。</p>
+<ul>
+<li>相手の火力が怖くて枚数があまり使えなかったりする。</li>
+<li><span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span>と色が重なっておらず、<span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span>後の4T目に使えないことがある。</li>
+</ul>
+<h3 id="《テレパスの才能/Talent_of_the_Telepath》_2枚"><span is="mtg_card" mtg_types="sorcery" mtg_colors="blue">《テレパスの才能/Talent of the Telepath》</span> 2枚</h3><p>問題児枠。</p>
+<p>例えば<span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span>がある状態で<span is="mtg_card" mtg_types="instant" mtg_colors="blue">《霊感/Inspiration》</span>を使うと、4マナ2ドローで相手のライブラリーを4枚(+α)削れる。<br>一方でこのカードは<span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span>抜きで使えて、ライブラリーを削る枚数が3枚多い。除去とかドロースペルがめくれると美味しすぎる。</p>
+<p>魔巧を達成するまで待つかとか、除去がめくれた時のことを考えて相手のクリーチャーが出るのを待つかとか、唱えるかどうか迷うことはよくある。往々にして何もめくれないんだけど。</p>
+<p><span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span>デッキ同士のゲームで、うっかり相手の<span is="mtg_card" mtg_types="sorcery" mtg_colors="blue">《テレパスの才能/Talent of the Telepath》</span>がめくれると宇宙。</p>
+<h3 id="《衰滅/Languish》_2枚"><span is="mtg_card" mtg_types="sorcery" mtg_colors="black">《衰滅/Languish》</span> 2枚</h3><p>リセットその1。フル投入。</p>
+<p>除去はリセット4枚だけなので、できるだけ温存したいところ。<br>ただし相手のプレインズウォーカーを見かけたら即発射。<br><span is="mtg_card" mtg_types="planeswalker" mtg_colors="red">《燃え盛る炎、チャンドラ/Chandra, Roaring Flame》</span>とか出たら、その時点でゲーム終了です。</p>
+<h3 id="《悲劇的な傲慢/Tragic_Arrogance》_2枚"><span is="mtg_card" mtg_types="sorcery" mtg_colors="white">《悲劇的な傲慢/Tragic Arrogance》</span> 2枚</h3><p>リセットその2。フル投入。</p>
+<p>これだけのために白を足してる。<span is="mtg_card" mtg_types="sorcery" mtg_colors="black">《衰滅/Languish》</span>の射程外のカードはこれで仕留めるほかないので仕方ない。<br>白や赤のオーラを中心にしたデッキや、緑のタフネスが高いデッキに対応できる、このデッキ唯一の除去。</p>
+<p>元のサイズで<span is="mtg_card" mtg_types="sorcery" mtg_colors="black">《衰滅/Languish》</span>の射程外になるクリーチャーは以下のとおり。</p>
+<ul>
+<li>白<ul>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="white">《徴税の大天使/Archangel of Tithes》</span></li>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="white">《族霊導きの鹿羚羊/Totem-Guide Hartebeest》</span></li>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="white">《包囲マストドン/Siege Mastodon》</span></li>
+</ul>
+</li>
+<li>青<ul>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="blue">《高位調停者、アルハマレット/Alhammarret, High Arbiter》</span></li>
+</ul>
+</li>
+<li>黒<ul>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="black">《エレボスのタイタン/Erebos’s Titan》</span></li>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="black">《血の儀式の司祭/Priest of the Blood Rite》</span>のデーモン・トークン</li>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="black">《魂の貯蔵者、コソフェッド/Kothophed, Soul Hoarder》</span></li>
+</ul>
+</li>
+<li>赤<ul>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="red">《燃えさし口のヘリオン/Embermaw Hellion》</span></li>
+</ul>
+</li>
+<li>緑<ul>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="green">《辺境地の巨人/Outland Colossus》</span></li>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="green">《森林の怒声吠え/Woodland Bellower》</span></li>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="green">《ガイアの復讐者/Gaea’s Revenge》</span></li>
+<li><span is="mtg_card" mtg_types="creature" mtg_colors="green">《斧折りの雄鹿/Axebane Stag》</span></li>
+</ul>
+</li>
+<li>無色<ul>
+<li><span is="mtg_card" mtg_types="artifact creature">《メレティスの守護者/Guardians of Meletis》</span></li>
+</ul>
+</li>
+</ul>
+<p>この辺のカードが戦場に出てしまったら<span is="mtg_card" mtg_types="sorcery" mtg_colors="white">《悲劇的な傲慢/Tragic Arrogance》</span>で落とすほかない。<br>黒の3枚と、緑の<span is="mtg_card" mtg_types="creature" mtg_colors="green">《斧折りの雄鹿/Axebane Stag》</span>を除く3枚はよく見るカード。<br><span is="mtg_card" mtg_types="creature" mtg_colors="blue">《高位調停者、アルハマレット/Alhammarret, High Arbiter》</span>と<span is="mtg_card" mtg_types="creature" mtg_colors="red">《燃えさし口のヘリオン/Embermaw Hellion》</span>も残しておくと死ねる。</p>
+<p><span is="mtg_card" mtg_types="sorcery" mtg_colors="white">《悲劇的な傲慢/Tragic Arrogance》</span>の前に<span is="mtg_card" mtg_types="sorcery" mtg_colors="black">《衰滅/Languish》</span>を使ってしまうと結局デカブツが落とせなくなって死ぬ。</p>
+<h3 id="土地26枚">土地26枚</h3><p>このデッキの要件としては…</p>
+<ul>
+<li>3ターン目に確実に3マナ出ること → どの状況でもタップインであるギルド門を入れるスペースはない</li>
+<li>4色(うち3色はダブルシンボルあり)のカードを唱えられる必要あり → 無色マナしか出ないような土地は入れるスペース無し</li>
+</ul>
+<p>というわけで、<span is="mtg_card" mtg_types="land">《進化する未開地/Evolving Wilds》</span>4枚、M10ランド6種12枚、基本土地10枚の構成。</p>
+<p><span is="mtg_card" mtg_types="land">《森/Forest》</span>が多めに入ってるのは<span is="mtg_card" mtg_types="creature" mtg_colors="green">《巨森の予見者、ニッサ/Nissa, Vastwood Seer》</span>でサーチが空振りになることを防ぐため。</p>
+<h2 id="デッキから抜けたカード">デッキから抜けたカード</h2><h3 id="各種カウンター">各種カウンター</h3><p>この環境の確定カウンターは<span is="mtg_card" mtg_types="instant" mtg_colors="blue">《撤回命令/Countermand》</span>と<span is="mtg_card" mtg_types="instant" mtg_colors="blue">《骨を灰に/Bone to Ash》</span>の4マナ。<br>マストカウンター(<span is="mtg_card" mtg_types="creature" mtg_colors="red">《カラデシュの火、チャンドラ/Chandra, Fire of Kaladesh》</span>とか<span is="mtg_card" mtg_types="enchantment" mtg_colors="black">《過去の過ち/Shadows of the Past》</span>とか)に対して、往々にして間に合わない。<br>間に合ったところでこっちのほうが多くマナを払ってるし、マナ拘束が重すぎるので抜けた。</p>
+<p>相手ターンでは<span is="mtg_card" mtg_types="instant" mtg_colors="blue">《水撃/Hydrolash》</span>使ったり<span is="mtg_card" mtg_types="instant" mtg_colors="green">《濃霧/Fog》</span>使ったり、やるべきことは多い。<br><span is="mtg_card" mtg_types="creature" mtg_colors="green">《ガイアの復讐者/Gaea’s Revenge》</span>の存在がでかいのも確か。</p>
+<h3 id="《霊感/Inspiration》"><span is="mtg_card" mtg_types="instant" mtg_colors="blue">《霊感/Inspiration》</span></h3><p>カウンターを構えて相手ターンにいろいろやるのではなく、毎ターン確実に土地を置くためにこっちのメインからガンガン動いていく必要があって、インスタントであることに有りがたみは無い。<br>そうすると、<span is="mtg_card" mtg_types="instant" mtg_colors="blue">《時間の把握/Telling Time》</span>や<span is="mtg_card" mtg_types="sorcery" mtg_colors="black">《骨読み/Read the Bones》</span>に比べて重い上に、掘れる枚数が少ないというカード。</p>
+<h3 id="《墓刃の匪賊/Graveblade_Marauder》"><span is="mtg_card" mtg_types="creature" mtg_colors="black">《墓刃の匪賊/Graveblade Marauder》</span></h3><p>赤を相手にしたときの<span is="mtg_card" mtg_types="sorcery" mtg_colors="red">《反逆の行動/Act of Treason》</span>や<span is="mtg_card" mtg_types="sorcery" mtg_colors="red">《裏切りの本能/Traitorous Instinct》</span>が怖すぎるので抜いた。<br>序盤に出せた時に数ターン稼いでくれるし、<span is="mtg_card" mtg_types="creature" mtg_colors="green">《ガイアの復讐者/Gaea’s Revenge》</span>も止まるので、入れなおしてもいいかもしれない。<br>緑単相手でもないかぎりこいつが生き延びることはないと思うが…。</p>
+<h3 id="《変位の波/Displacement_Wave》"><span is="mtg_card" mtg_types="sorcery" mtg_colors="blue">《変位の波/Displacement Wave》</span></h3><p><span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《飛行機械の諜報網/Thopter Spy Network》</span>デッキに刺さるし、プレインズウォーカーも戻せる。<br>しかし、クリーチャーについてるオーラとか、自分の<span is="mtg_card" mtg_types="enchantment" mtg_colors="blue">《スフィンクスの後見/Sphinx’s Tutelage》</span>まで手札に戻ってしまうのが問題。<br>相手の4マナのカードに対して6マナの呪文で一時しのぎをするというのは悲しい。</p>
+<h3 id="《復仇/Reprisal》、《分散/Disperse》、《霊気への抑留/Anchor_to_the_AEther》"><span is="mtg_card" mtg_types="instant" mtg_colors="white">《復仇/Reprisal》</span>、<span is="mtg_card" mtg_types="instant" mtg_colors="blue">《分散/Disperse》</span>、<span is="mtg_card">《霊気への抑留/Anchor to the AEther》</span></h3><p>単体除去に割くスペースはない。</p>
+]]></content:encoded>
+      <comments>http://tefuda.suku.name/2015/09/27/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%BB%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3-Magic-Duels-Origins-4%E8%89%B2%E5%BE%8C%E8%A6%8B/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title><![CDATA[《ドロモカの命令/Dromoka's Command(DTK)》で白緑英雄的デッキは組めるのか]]></title>
+      <link>http://tefuda.suku.name/2015/03/22/%E3%80%8A%E3%83%89%E3%83%AD%E3%83%A2%E3%82%AB%E3%81%AE%E5%91%BD%E4%BB%A4-Dromoka-s-Command-DTK-%E3%80%8B%E3%81%A7%E7%99%BD%E7%B7%91%E8%8B%B1%E9%9B%84%E7%9A%84%E3%83%87%E3%83%83%E3%82%AD%E3%81%AF%E7%B5%84%E3%82%81%E3%82%8B%E3%81%AE%E3%81%8B/</link>
+      <guid>http://tefuda.suku.name/2015/03/22/%E3%80%8A%E3%83%89%E3%83%AD%E3%83%A2%E3%82%AB%E3%81%AE%E5%91%BD%E4%BB%A4-Dromoka-s-Command-DTK-%E3%80%8B%E3%81%A7%E7%99%BD%E7%B7%91%E8%8B%B1%E9%9B%84%E7%9A%84%E3%83%87%E3%83%83%E3%82%AD%E3%81%AF%E7%B5%84%E3%82%81%E3%82%8B%E3%81%AE%E3%81%8B/</guid>
+      <pubDate>Sun, 22 Mar 2015 15:09:00 GMT</pubDate>
+      <description>
+      <![CDATA[<img class="mtg_card" src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394558&type=card">
+<p><span is="mtg_card" mtg_types=]]>
+      </description>
+      <content:encoded><![CDATA[<img class="mtg_card" src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394558&type=card">
+<p><span is="mtg_card" mtg_types="enchantment" mtg_colors="white" mtg_multiverseid="373619">《ヘリオッドの試練/Ordeal of Heliod(THS)》</span>や<span is="mtg_card" mtg_types="enchantment" mtg_colors="blue" mtg_multiverseid="373696">《タッサの試練/Ordeal of Thassa(THS)》</span>を無理やり突破できてしまうカード<span is="mtg_card" mtg_types="instant" mtg_colors="white" mtg_multiverseid="391781">《アブザンの優位/Abzan Advantage(FRF)》</span>。</p>
+<p>その<span is="mtg_card" mtg_types="instant" mtg_colors="white" mtg_multiverseid="391781">《アブザンの優位/Abzan Advantage(FRF)》</span>を多色にしたら、自分で英雄的を使えるようになった上にできることがやたら増えたというわけのわからないカードが<span is="mtg_card" mtg_types="instant" mtg_colors="white green" mtg_multiverseid="394558">《ドロモカの命令/Dromoka’s Command(DTK)》</span>。</p>
+<p>このへん使って英雄的デッキ組めないかな。緑の英雄的にろくなやつがいないのできついか。</p>
+<p>たとえば<span is="mtg_card" mtg_types="enchantment" mtg_colors="white" mtg_multiverseid="373619">《ヘリオッドの試練/Ordeal of Heliod(THS)》</span>と組み合わせると、4マナとカード2枚使って、英雄的2回+ライフ10点。なんかそこまで強くない気も…。カード2枚使ってるのが悲しい。</p>
+<p>タルキール龍紀伝では<span is="mtg_card" mtg_types="enchantment" mtg_colors="white" mtg_multiverseid="394582">《権威の微光/Gleam of Authority(DTK)》</span>とか<span is="mtg_card" mtg_types="creature" mtg_colors="green" mtg_multiverseid="394503">《毅然さの化身/Avatar of the Resolute(DTK)》</span>とか+1/+1カウンターがらみのカードが増えているのでどうにかならないか。</p>
+<p><span is="mtg_card" mtg_types="enchantment" mtg_colors="blue" mtg_multiverseid="373696">《タッサの試練/Ordeal of Thassa(THS)》</span>を使わないなら他に手札を補充する手段がほしいわけで、+1/+1カウンターのことを考えると<span is="mtg_card" mtg_types="instant" mtg_colors="green" mtg_multiverseid="394601">《鼓舞する呼び声/Inspiring Call(DTK)》</span>なのか。ほんとか?</p>
+<p><span is="mtg_card" mtg_types="instant" mtg_colors="green" mtg_multiverseid="394601">《鼓舞する呼び声/Inspiring Call(DTK)》</span>・<span is="mtg_card" mtg_types="creature" mtg_colors="green" mtg_multiverseid="394503">《毅然さの化身/Avatar of the Resolute(DTK)》</span>・<span is="mtg_card" mtg_types="creature" mtg_colors="white" mtg_multiverseid="386554">《アラシンの上級歩哨/High Sentinels of Arashin(KTK)》</span>が+1/+1カウンターの置かれたクリーチャーの数を参照するので、複数のクリーチャーに+1/+1カウンターを置けるカードがほしい。</p>
+<p>またあとで考える。</p>
+]]></content:encoded>
+      <comments>http://tefuda.suku.name/2015/03/22/%E3%80%8A%E3%83%89%E3%83%AD%E3%83%A2%E3%82%AB%E3%81%AE%E5%91%BD%E4%BB%A4-Dromoka-s-Command-DTK-%E3%80%8B%E3%81%A7%E7%99%BD%E7%B7%91%E8%8B%B1%E9%9B%84%E7%9A%84%E3%83%87%E3%83%83%E3%82%AD%E3%81%AF%E7%B5%84%E3%82%81%E3%82%8B%E3%81%AE%E3%81%8B/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title><![CDATA[《嘲る映し身/Mirror Mockery(DTK)》は書いてあることがおかしいのでは]]></title>
+      <link>http://tefuda.suku.name/2015/03/21/%E3%80%8A%E5%98%B2%E3%82%8B%E6%98%A0%E3%81%97%E8%BA%AB-Mirror-Mockery-DTK-%E3%80%8B%E3%81%AF%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%8A%E3%81%8B%E3%81%97%E3%81%84%E3%81%AE%E3%81%A7%E3%81%AF/</link>
+      <guid>http://tefuda.suku.name/2015/03/21/%E3%80%8A%E5%98%B2%E3%82%8B%E6%98%A0%E3%81%97%E8%BA%AB-Mirror-Mockery-DTK-%E3%80%8B%E3%81%AF%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%8A%E3%81%8B%E3%81%97%E3%81%84%E3%81%AE%E3%81%A7%E3%81%AF/</guid>
+      <pubDate>Sat, 21 Mar 2015 17:27:27 GMT</pubDate>
+      <description>
+      <![CDATA[<img class="mtg_card" src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394625&type=card">
+<h2 id="《嘲る映し身/Mirror_Mockery(DTK]]>
+      </description>
+      <content:encoded><![CDATA[<img class="mtg_card" src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394625&type=card">
+<h2 id="《嘲る映し身/Mirror_Mockery(DTK)》がなんか強そうに見える"><span is="mtg_card" mtg_types="enchantment" mtg_colors="blue" mtg_multiverseid="394625">《嘲る映し身/Mirror Mockery(DTK)》</span>がなんか強そうに見える</h2><p>現在の売値は100円前後。安いと思うんだよなあ。</p>
+<p>相手のクリーチャーにもつけられるけど、ここでは自分のクリーチャーにつけることを考える。</p>
+<p>CIP持ちにつけて、CIPを再利用する方向で。</p>
+<h2 id="《嘲る映し身/Mirror_Mockery(DTK)》と相性のよさそうなカード"><span is="mtg_card" mtg_types="enchantment" mtg_colors="blue" mtg_multiverseid="394625">《嘲る映し身/Mirror Mockery(DTK)》</span>と相性のよさそうなカード</h2><p>マナコスト順に。</p>
+<h3 id="《シディシの信者/Sidisi’s_Faithful(DTK)》_(U)"><span is="mtg_card" mtg_types="creature" mtg_colors="blue" mtg_multiverseid="394696">《シディシの信者/Sidisi’s Faithful(DTK)》</span> (U)</h3><p>出てきたトークンの濫用で自身を生け贄にすれば、すぐにトークンがいなくなるデメリットを相殺できる。</p>
+<p>1T目<span is="mtg_card" mtg_types="creature" mtg_colors="blue" mtg_multiverseid="394696">《シディシの信者/Sidisi’s Faithful(DTK)》</span>から、2T目以降毎ターンクリーチャーをバウンスできるのが強み。<br>タフネスが4あるしブロックされる前にバウンスできるので攻撃に行きやすいところがGood。</p>
+<p>単体でもソーサリーの<span is="mtg_card">《送還》</span>かタフネス4の壁を選べるので、1マナにしては十分。</p>
+<h3 id="《アラシンの僧侶/Arashin_Cleric(FRF)》_(1)(W)"><span is="mtg_card" mtg_types="creature" mtg_colors="white" mtg_multiverseid="391791">《アラシンの僧侶/Arashin Cleric(FRF)》</span> (1)(W)</h3><p>攻撃するたびに3点ゲイン。別に回避能力もないのでタフネス3くらいはほしい。<br>濫用と違ってオリジナルのプレイ時にも3点回復してるのが嬉しい。</p>
+<h3 id="《マルドゥの頭蓋狩り/Mardu_Skullhunter(KTK)》_(1)(B)"><span is="mtg_card" mtg_types="creature" mtg_colors="black" mtg_multiverseid="386598">《マルドゥの頭蓋狩り/Mardu Skullhunter(KTK)》</span> (1)(B)</h3><p>攻撃するたびハンデス。ただ、殴ってるオリジナルはたぶん死ぬ。</p>
+<h3 id="《カルシのサディスト/Qarsi_Sadist(DTK)》_(1)(B)"><span is="mtg_card" mtg_types="creature" mtg_colors="black" mtg_multiverseid="394658">《カルシのサディスト/Qarsi Sadist(DTK)》</span> (1)(B)</h3><p>攻撃するたび2点ドレイン。<br><span is="mtg_card" mtg_types="enchantment" mtg_colors="black" mtg_multiverseid="391892">《宮殿の包囲/Palace Siege(FRF)》</span>の龍モードと同じか…。黒包囲のほうが安定してそう。</p>
+<p>それはそれとして黒包囲が濫用と相性よさげなのはいいなあ。</p>
+<h3 id="《サテュロスの道探し/Satyr_Wayfinder(M15)》_(1)(G)"><span is="mtg_card" mtg_types="creature" mtg_colors="green" mtg_multiverseid="383371">《サテュロスの道探し/Satyr Wayfinder(M15)》</span> (1)(G)</h3><p>手札も増えるし墓地も増える。</p>
+<h3 id="《アラシンの先頭に立つ者/Arashin_Foremost(DTK)》_(1)(W)(W)"><span is="mtg_card" mtg_types="creature" mtg_colors="white" mtg_multiverseid="394494">《アラシンの先頭に立つ者/Arashin Foremost(DTK)》</span> (1)(W)(W)</h3><p>他の戦士1体に二段攻撃がつく。</p>
+<p>嘲る写し身がついているのがこれでなくても、一緒に殴っておくと便利。</p>
+<h3 id="《ヘリオッドの巡礼者/Heliod’s_Pilgrim(M15)》_(2)(W)"><span is="mtg_card" mtg_types="creature" mtg_colors="white" mtg_multiverseid="383265">《ヘリオッドの巡礼者/Heliod’s Pilgrim(M15)》</span> (2)(W)</h3><p>攻撃するたびにオーラをサーチできる。</p>
+<p>オリジナルをプレイした時に嘲る写し身を探せるのは偉い。</p>
+<h3 id="《霜のオオヤマネコ/Frost_Lynx(M15)》_(2)(U)"><span is="mtg_card" mtg_types="creature" mtg_colors="blue" mtg_multiverseid="383248">《霜のオオヤマネコ/Frost Lynx(M15)》</span> (2)(U)</h3><p>擬似除去。何より色があってるのが嬉しい。</p>
+<h3 id="《血顎の狂信者/Blood-Chin_Fanatic(DTK)》_(1)(B)(B)"><span is="mtg_card" mtg_types="creature" mtg_colors="black" mtg_multiverseid="394510">《血顎の狂信者/Blood-Chin Fanatic(DTK)》</span> (1)(B)(B)</h3><p>出てくるトークンが戦士なので、(1)(B)を支払って生け贄にすると3点ドレインできる。<br>本体も3/3あるので殴りに行きやすい。</p>
+<h3 id="《厳かな守護者/Grim_Guardian(JOU)》_(2)(B)"><span is="mtg_card" mtg_types="enchantment creature" mtg_colors="black" mtg_multiverseid="380430">《厳かな守護者/Grim Guardian(JOU)》</span> (2)(B)</h3><p><span is="mtg_card" mtg_types="enchantment" mtg_colors="blue" mtg_multiverseid="394625">《嘲る映し身/Mirror Mockery(DTK)》</span>が戦場に出たときに1回と、コピーが出たときに2回誘発するので、星座持ちにつけると星座が3回誘発する計算。<br>他の星座持ちや<span is="mtg_card" mtg_types="enchantment" mtg_colors="blue" mtg_multiverseid="394625">《嘲る映し身/Mirror Mockery(DTK)》</span>が複数出てるとさらに美味しい。</p>
+<p>攻撃するたび2点ルーズだが、それだけじゃあ<span is="mtg_card" mtg_types="creature" mtg_colors="black" mtg_multiverseid="394658">《カルシのサディスト/Qarsi Sadist(DTK)》</span>だよなあ。</p>
+<h3 id="《無慈悲な処刑人/Merciless_Executioner(FRF)》_(2)(B)"><span is="mtg_card" mtg_types="creature" mtg_colors="black" mtg_multiverseid="391879">《無慈悲な処刑人/Merciless Executioner(FRF)》</span> (2)(B)</h3><p>攻撃するたびに布告除去。タフネス1だけど、除去つきというところに希望を抱いていたい。</p>
+<h3 id="《モーギスの匪賊/Mogis’s_Marauder(THS)》_(2)(B)"><span is="mtg_card" mtg_types="creature" mtg_colors="black" mtg_multiverseid="373565">《モーギスの匪賊/Mogis’s Marauder(THS)》</span> (2)(B)</h3><p>攻撃クリーチャー指定ステップの間に速攻がついてもしょうがないので、結果的に威嚇をもたせるだけになりそう。</p>
+<h3 id="《機を見た軍族朋/Timely_Hordemate(KTK)》_(3)(W)"><span is="mtg_card" mtg_types="creature" mtg_colors="white" mtg_multiverseid="386699">《機を見た軍族朋/Timely Hordemate(KTK)》</span> (3)(W)</h3><p>ETBで<span is="mtg_card" mtg_types="creature" mtg_colors="blue" mtg_multiverseid="394696">《シディシの信者/Sidisi’s Faithful(DTK)》</span>とかを使いまわせる。</p>
+<h3 id="《波使い/Master_of_Waves(THS)》_(3)(U)"><span is="mtg_card" mtg_types="creature" mtg_colors="blue" mtg_multiverseid="373536">《波使い/Master of Waves(THS)》</span> (3)(U)</h3><p>攻撃するたびにトークンが一回り大きくなって、増える。<br>オリジナルの波使い + 波使いのコピー + 嘲る写し身 で信心3が確定してるのがGood。</p>
+<h3 id="《死者を冒涜するもの/Profaner_of_the_Dead(DTK)》_(3)(U)"><span is="mtg_card" mtg_types="creature" mtg_colors="blue" mtg_multiverseid="394654">《死者を冒涜するもの/Profaner of the Dead(DTK)》</span> (3)(U)</h3><p>攻撃するたびタフネス3以下のクリーチャーをすべてバウンス。<br>毎ターン行うことに意味があるのかという気もする。</p>
+<p>能力の効果が生け贄に捧げたクリーチャーに影響をうける唯一のカード。そう考えると夢がある。ない?</p>
+<h3 id="《フィナックスの信奉者/Disciple_of_Phenax(THS)》_(2)(B)(B)"><span is="mtg_card" mtg_types="creature" mtg_colors="black" mtg_multiverseid="373520">《フィナックスの信奉者/Disciple of Phenax(THS)》</span> (2)(B)(B)</h3><p>攻撃するたび、相手の手札を最低4枚見て1枚捨てさせる。<br>こっちに選択権があるのが嬉しい。</p>
+<h3 id="《禿鷹エイヴン/Vulturous_Aven(DTK)》_(3)(B)"><span is="mtg_card" mtg_types="creature" mtg_colors="black" mtg_multiverseid="394743">《禿鷹エイヴン/Vulturous Aven(DTK)》</span> (3)(B)</h3><p>濫用持ちにしては珍しく回避能力を持ってるのでそれなりに安心して殴れるのは嬉しい。<br>攻撃するたび2枚ドロー2点ルーズ。</p>
+<h3 id="《開花の幻霊/Eidolon_of_Blossoms(JOU)》_(2)(G)(G)"><span is="mtg_card" mtg_types="enchantment creature" mtg_colors="green" mtg_multiverseid="380408">《開花の幻霊/Eidolon of Blossoms(JOU)》</span> (2)(G)(G)</h3><p>攻撃するたび2ドロー。幻霊自体のスペックが高くないのが悲しい。<br>星座方面にカードを寄せるなら入るカードではある。</p>
+<h3 id="《包囲サイ/Siege_Rhino(KTK)》_(1)(W)(B)(G)"><span is="mtg_card" mtg_types="creature" mtg_colors="white black green" mtg_multiverseid="386666">《包囲サイ/Siege Rhino(KTK)》</span> (1)(W)(B)(G)</h3><p>相性が良いというか、もともと強い。攻撃するたび3点ドレイン。</p>
+<p>色が全く合ってないのが弱点。</p>
+<h3 id="《風番いのロック/Wingmate_Roc(KTK)》_(3)(W)(W)"><span is="mtg_card" mtg_types="creature" mtg_colors="white" mtg_multiverseid="386726">《風番いのロック/Wingmate Roc(KTK)》</span> (3)(W)(W)</h3><p>3/4飛行が増えてゆく。</p>
+<h3 id="《破滅喚起の巨人/Doomwake_Giant(JOU)》_(4)(B)"><span is="mtg_card" mtg_types="enchantment creature" mtg_colors="black" mtg_multiverseid="380405">《破滅喚起の巨人/Doomwake Giant(JOU)》</span> (4)(B)</h3><p>星座デッキのパーツその2。攻撃するたび相手全体に-2/-2。<br>青黒アリだなあ…。</p>
+<h3 id="《アスフォデルの灰色商人/Gray_Merchant_of_Asphodel(THS)》_(3)(B)(B)"><span is="mtg_card" mtg_types="creature" mtg_colors="black" mtg_multiverseid="373645">《アスフォデルの灰色商人/Gray Merchant of Asphodel(THS)》</span> (3)(B)(B)</h3><p>攻撃するたびに最低でも4点ドレイン。</p>
+<h3 id="《囁きの森の精霊/Whisperwood_Elemental(FRF)》_(3)(G)(G)"><span is="mtg_card" mtg_types="creature" mtg_colors="green" mtg_multiverseid="391958">《囁きの森の精霊/Whisperwood Elemental(FRF)》</span> (3)(G)(G)</h3><p>出てきたコピーを生け贄にして能力を起動できる。<br>オリジナルと両方起動したりすると胡散臭いが、単体で十分強いのでオーバーキル感ある。</p>
+<h3 id="《熊の仲間/Bear’s_Companion(KTK)》_(2)(G)(U)(R)"><span is="mtg_card" mtg_types="creature" mtg_colors="blue red green" mtg_multiverseid="386486">《熊の仲間/Bear’s Companion(KTK)》</span> (2)(G)(U)(R)</h3><p>攻撃するたび4/4が出る。この重さからバニラが増えてもという感がある。</p>
+<p>##　デッキを作るとしたら…</p>
+<p>以上を考えると…</p>
+<ul>
+<li>黒緑t青星座</li>
+<li>青信心</li>
+<li>黒信心</li>
+<li>白黒t青戦士</li>
+</ul>
+<p>この4択かなあ。一番弱そうな白黒t青戦士の『エスパー戦士』という響きに惹かれる。スタンダードの青い戦士はみんなティムールだけど。</p>
+]]></content:encoded>
+      <comments>http://tefuda.suku.name/2015/03/21/%E3%80%8A%E5%98%B2%E3%82%8B%E6%98%A0%E3%81%97%E8%BA%AB-Mirror-Mockery-DTK-%E3%80%8B%E3%81%AF%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%8A%E3%81%8B%E3%81%97%E3%81%84%E3%81%AE%E3%81%A7%E3%81%AF/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title><![CDATA[ブログ始めてみた]]></title>
+      <link>http://tefuda.suku.name/2015/03/21/%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <guid>http://tefuda.suku.name/2015/03/21/%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <pubDate>Sat, 21 Mar 2015 14:39:22 GMT</pubDate>
+      <description>
+      <![CDATA[<p>MTGのことをメモしていくことにする。</p>
+]]>
+      </description>
+      <content:encoded><![CDATA[<p>MTGのことをメモしていくことにする。</p>
+]]></content:encoded>
+      <comments>http://tefuda.suku.name/2015/03/21/%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
